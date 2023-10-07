@@ -1,5 +1,5 @@
 import React from "react";
-import ReactTable from "./components/ReactTable";
+import EcommereceTable from "./components/EcommereceTable";
 
 
 
@@ -7,7 +7,7 @@ const App = () => {
   
   return (
     <div>
-      <ReactTable />
+      <EcommereceTable />
     </div>
   );
 };
